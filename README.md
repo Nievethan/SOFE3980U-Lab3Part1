@@ -9,6 +9,7 @@
 <br />
 Docker is a platform that automates the deployment of applications inside containers. These containers come with the application and all the required dependencies to run the application.
 Kubernetes are a container orchestration platform developed by Google. It automates the deployment, scaling, and management of containerized applications. <br />
+<br />
 
 2. What are the advantages and disadvantages of using docker images? <br />
 <br />
