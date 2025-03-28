@@ -11,11 +11,11 @@ Kubernetes are a container orchestration platform developed by Google. It automa
 
 
 2. What are the advantages and disadvantages of using docker images? <br />
+
 **Advantages:** <br />
 Portability: Ensures applications run consistently across different environments. <br />
 Efficiency: Shares the host OS kernel, reducing resource consumption compared to traditional virtual machines. <br />
 Scalability: Facilitates easy scaling of applications by deploying multiple container instances. <br />
-
 
 **Disadvantages:** <br />
 Security Concerns: Containers share the host OS kernel, which can pose security risks if not managed properly. <br />
