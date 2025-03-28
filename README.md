@@ -6,12 +6,13 @@
 
 ## Deliverables:
 1. Briefly summarize what you have learned about docker and Kubernetes, including their terminologies and descriptions. <br />
+<br />
 Docker is a platform that automates the deployment of applications inside containers. These containers come with the application and all the required dependencies to run the application.
 Kubernetes are a container orchestration platform developed by Google. It automates the deployment, scaling, and management of containerized applications.
 
 
 2. What are the advantages and disadvantages of using docker images? <br />
-
+<br />
 **Advantages:** <br />
 Portability: Ensures applications run consistently across different environments. <br />
 Efficiency: Shares the host OS kernel, reducing resource consumption compared to traditional virtual machines. <br />
